@@ -1,0 +1,43 @@
+
+If I clone the action and if I saved the actionflow without filling the field actionflow were saved.
+RoleName not appear correct.
+
+If I am applying the condition with and clause then AND clause not appear.
+Checkbox not appear in Actionflow.
+Insted of tool tip import page it should be import actionflow
+
+Actionflow get imported but entity name or default stage not appear condition not appear.
+
+Form->New catalogue->if I am selecting the new catalogue then category dropdown not appear
+
+Form ->Import not working  getting the successful toaster message but form was not imported
+
+
+Akanksha update
+
+Today I test the Telus o3 testing for Builder instructed by Sanjy sir.
+Test the Dynamic checklist,and Explore the timer checklist.
+Generate the report for automation script 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
